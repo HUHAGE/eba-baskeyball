@@ -1,0 +1,24 @@
+{
+  "logo": "logo.png",
+  "features": [
+    {
+      "code": "basketball_team_grouping",
+      "explain": "篮球队员随机分组工具",
+      "cmds": [
+        "EBA",
+        "篮球分组",
+        "球队分组",
+        "随机分组",
+        "basketball grouping"
+      ]
+    }
+  ],
+  "main": "index.html",
+  "preload": "preload.js",
+  "development": {
+    "main": "http://localhost:5173/"
+  },
+  "pluginSetting": {
+    "single": true
+  }
+} 
